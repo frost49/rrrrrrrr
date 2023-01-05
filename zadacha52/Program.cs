@@ -40,9 +40,3 @@ for (int i = 0; i < matrix.GetLength(1); i++)
     Console.WriteLine();
     Console.WriteLine($" Среднее арифметическое элементов {i+1} столбца = {x}");
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-S
