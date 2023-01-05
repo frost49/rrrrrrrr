@@ -53,8 +53,4 @@ void WriteArray (int[,] array)
     Console.WriteLine();
   }
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
 
